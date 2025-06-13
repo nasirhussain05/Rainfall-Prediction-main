@@ -31,11 +31,11 @@ pip install pandas scikit-learn
 
 
 ▶️ How to Run
-Open the project in VS Code.
+ 1.Open the project in VS Code.
 
-Ensure Rainfall.csv and Simplified_Rainfall_Prediction.py are in the same folder.
+ 2.Ensure Rainfall.csv and Simplified_Rainfall_Prediction.py are in the same folder.
 
-Run the script:
+ 3.Run the script:
 
 bash
 Copy
