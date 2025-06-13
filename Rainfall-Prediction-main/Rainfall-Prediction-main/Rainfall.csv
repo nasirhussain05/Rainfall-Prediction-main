@@ -1,0 +1,6 @@
+MinTemp,MaxTemp,Humidity,WindSpeed,RainToday,RainTomorrow
+15.0,23.5,85,30,Yes,No
+12.0,20.0,70,20,No,Yes
+18.2,28.4,90,35,Yes,Yes
+20.5,30.1,80,25,No,No
+10.1,18.6,65,15,No,No
